@@ -1,0 +1,1 @@
+C:\Users\Zhaox\Desktop\yolov5-ship_detection\mydatadata/dataSet/C:\Users\Zhaox\Desktop\yolov5-ship_detection\mydata\data/images/train\1_1.jpg.jpg

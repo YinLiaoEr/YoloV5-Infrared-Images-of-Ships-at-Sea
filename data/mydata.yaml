@@ -1,0 +1,13 @@
+path: C:\Users\Zhaox\Desktop\yolov5-ship_detection\mydata
+train: images/train
+val:  images/val
+test: images/test
+nc : 7
+names:
+  0: liner
+  1: bulk carrier
+  2: warship
+  3: sailboat
+  4: canoe
+  5: container ship
+  6: fishing boat
